@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+
+.container{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.item1{
+	background-color:green;
+	width:100px;
+	height:100px;
+}
+
+.item2{
+	background-color:orange;
+	width:100px;
+	height:100px;
+}
+.item3{
+	background-color:blue;
+	width:100px;
+	height:100px;
+}
